@@ -10,27 +10,27 @@ primary audience is.*
 
 | Description | Linear exponential smoothing is an algorithm that uses a moving average from time series to create predictions. |
 |---------|-----------|
-| Repository URL |  https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.exponential_smoothing.ExponentialSmoothing.html#statsmodels.tsa.statespace.exponential_smoothing.ExponentialSmoothing  |
+| Repository URL | https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.exponential_smoothing.ExponentialSmoothing.html#statsmodels.tsa.statespace.exponential_smoothing.ExponentialSmoothing  |
 | Main/documentation website |  statsmodels  |
 | Year project was started | 2008 |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project | 4 |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
+| Number of contributors in the past year | `since = 2022-03-24` 10|
+| Number of contributors in the lifetime of the project | 351 |
+| Number of distinct affiliations | >10 |
+| Where do development discussions take place? | GitHub/GitLab issues and Mailing Lists |
+| Typical number of emails/comments per week? | 14-20 |
+| Typical number of commits per week? | 6 on average |
 | Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| How does the project accept contributions? | Pull requests |
+| Does the project have an automated test suite? | Yes |
+| Does the project use continuous integration? | Yes |
+| Are any legal/licensing steps required to contribute? | No, still falls under 3-Clause BSD License|
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
+- [x] I have installed the software
 - [ ] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
